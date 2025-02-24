@@ -3,4 +3,4 @@ numpy==1.24.2
 matplotlib==3.6.3
 scikit-learn==1.2.0
 xgboost==1.7.3
-jupyter
+jupyter==1.0.0
